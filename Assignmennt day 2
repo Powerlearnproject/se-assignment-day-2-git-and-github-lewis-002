@@ -1,0 +1,22 @@
+Repositories (Repos): A storage location for the project files and their version history.
+Commits: Snapshots of changes made to files, providing a record of modifications.
+Branches: Isolated environments within a project where developers can work on features without affecting the main codebase.
+Merging: Combining changes from different branches into a single branch.
+Pull Requests (PRs): A method to propose and review code changes before merging them into the main project.
+Conflict Resolution: Handling situations where multiple developers modify the same part of a file.
+Remote and Local Repositories: Local repos exist on a developer's machine, while remote repos (e.g., GitHub, GitLab) store the shared project in the cloud.
+Why is GitHub Popular for Version Control?
+GitHub is a widely used platform for hosting Git repositories, offering collaboration tools, security features, and automation for software development.
+
+Cloud-Based Collaboration: Enables teams to work together seamlessly from anywhere.
+Pull Requests & Code Reviews: Facilitates structured code reviews before merging changes.
+Issue Tracking: Provides an integrated system for tracking bugs, features, and enhancements.
+Integration with DevOps & CI/CD: Supports automated testing and deployment workflows.
+Version History & Rollback: Maintains a detailed history of changes, making it easy to revert to a previous state if needed.
+Open-Source & Community Support: Allows developers to contribute to open-source projects, fostering collaboration.
+How Version Control Maintains Project Integrity
+Prevents Data Loss: Changes are stored systematically, ensuring nothing is permanently lost.
+Supports Parallel Development: Multiple developers can work on different features without overwriting each other's work.
+Enables Traceability: Every change is documented with timestamps and authors, ensuring accountability.
+Facilitates Bug Fixing: Developers can track when and where a bug was introduced by reviewing version history.
+Ensures Stability: Before deploying, changes can be reviewed, tested, and approved to avoid introducing breaking changes.
